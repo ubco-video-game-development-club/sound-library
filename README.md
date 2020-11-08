@@ -2,7 +2,7 @@
 A sound library for use in the UBCO Video Game Development Club.
 
 ## Navigation
-At the top level, you will find 3 folders:
+At the top level, you will find 4 folders:
 1. Ambience
 2. Music
 3. SFX
